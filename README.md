@@ -4,3 +4,6 @@ HOTSTAR FRONT PAGE CLONE USING HTML, CSS AND JAVASCRIPT
 DONE IN CODESANDBOX ONLINE.
 LINK:
 https://codesandbox.io/s/laughing-swirles-9mpfih
+
+LINK TO THE WEBPAGE:
+https://9mpfih.csb.app/
